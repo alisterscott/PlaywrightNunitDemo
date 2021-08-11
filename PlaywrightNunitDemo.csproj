@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <None Remove="lib\" />
+    <None Remove="scenarios\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="appsettings.json">
@@ -25,5 +26,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="lib\" />
+    <Folder Include="scenarios\" />
   </ItemGroup>
 </Project>
