@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaywrightNunitDemo", "PlaywrightNunitDemo.csproj", "{9FBA1C01-E9B7-4C73-867E-F51131C258B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBA1C01-E9B7-4C73-867E-F51131C258B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBA1C01-E9B7-4C73-867E-F51131C258B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBA1C01-E9B7-4C73-867E-F51131C258B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBA1C01-E9B7-4C73-867E-F51131C258B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D71C2FB-4AC8-4552-B7F3-EB775918FDF6}
+	EndGlobalSection
+EndGlobal
